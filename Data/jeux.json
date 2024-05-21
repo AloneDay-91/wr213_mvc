@@ -1,0 +1,80 @@
+[
+  {
+    "jeu_code": 1,
+    "jeu_nom": "Kingdomino",
+    "jeu_editeur": "Blue orange",
+    "jeu_duree_partie": 30,
+    "jeu_nb_joueurs_mini": 2,
+    "jeu_nb_joueurs_maxi": 4,
+    "jeu_photo1": "img/jeux/kingdomino1.jpg",
+    "jeu_photo2": "img/jeux/kingdomino2.jpg",
+    "jeu_photo3": "img/jeux/kingdomino3.jpg",
+    "jeu_prix_unit": 20.99,
+    "jeu_qte_stock": 12
+  },
+  {
+    "jeu_code": 2,
+    "jeu_nom": "Cacao",
+    "jeu_editeur": "Z-man games",
+    "jeu_duree_partie": 45,
+    "jeu_nb_joueurs_mini": 2,
+    "jeu_nb_joueurs_maxi": 4,
+    "jeu_photo1": "img/jeux/cacao1.jpg",
+    "jeu_photo2": "img/jeux/cacao2.jpg",
+    "jeu_photo3": "img/jeux/cacao3.jpg",
+    "jeu_prix_unit": 33,
+    "jeu_qte_stock": 17
+  },
+  {
+    "jeu_code": 4,
+    "jeu_nom": "Wingspan",
+    "jeu_editeur": "Matagot",
+    "jeu_duree_partie": 75,
+    "jeu_nb_joueurs_mini": 1,
+    "jeu_nb_joueurs_maxi": 5,
+    "jeu_photo1": "img/jeux/wingspan1.jpg",
+    "jeu_photo2": "img/jeux/wingspan2.jpg",
+    "jeu_photo3": "img/jeux/wingspan3.jpg",
+    "jeu_prix_unit": 60,
+    "jeu_qte_stock": 8
+  },
+  {
+    "jeu_code": 11,
+    "jeu_nom": "Chasseurs de légendes",
+    "jeu_editeur": "Gigamic",
+    "jeu_duree_partie": 45,
+    "jeu_nb_joueurs_mini": 2,
+    "jeu_nb_joueurs_maxi": 5,
+    "jeu_photo1": "img/jeux/chasseurs1.jpg",
+    "jeu_photo2": "img/jeux/chasseurs2.jpg",
+    "jeu_photo3": "img/jeux/chasseurs3.jpg",
+    "jeu_prix_unit": 29.5,
+    "jeu_qte_stock": 7
+  },
+  {
+    "jeu_code": 12,
+    "jeu_nom": "Carcassonne",
+    "jeu_editeur": "Filosofia",
+    "jeu_duree_partie": 45,
+    "jeu_nb_joueurs_mini": 2,
+    "jeu_nb_joueurs_maxi": 5,
+    "jeu_photo1": "img/jeux/carcassonne1.jpg",
+    "jeu_photo2": "img/jeux/carcassonne2.jpg",
+    "jeu_photo3": "img/jeux/carcassonne3.jpg",
+    "jeu_prix_unit": 45.5,
+    "jeu_qte_stock": 21
+  },
+  {
+    "jeu_code": 13,
+    "jeu_nom": "Azul",
+    "jeu_editeur": "Next move",
+    "jeu_duree_partie": 45,
+    "jeu_nb_joueurs_mini": 2,
+    "jeu_nb_joueurs_maxi": 4,
+    "jeu_photo1": "img/jeux/azul1.jpg",
+    "jeu_photo2": "img/jeux/azul2.jpg",
+    "jeu_photo3": "img/jeux/azul3.jpg",
+    "jeu_prix_unit": 39.9,
+    "jeu_qte_stock": 31
+  }
+]

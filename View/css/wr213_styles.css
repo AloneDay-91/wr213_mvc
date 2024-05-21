@@ -1,0 +1,83 @@
+/* Styles du site MMIple */
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+
+body {
+    font-family: 'Nunito', sans-serif;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6, p, div, section, article {
+    font-family: 'Nunito', sans-serif;
+}
+
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 1% 0;
+    height: 32px;
+    background-color: brown;
+    color: white;
+}
+
+header nav {
+    position: fixed;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+a {
+    color: white;
+}
+
+a:hover {
+    color: white;
+    text-shadow: 1px 1px orange;
+}
+
+a:active {
+    color: white;
+    text-shadow: 1px 1px yellow;
+}
+
+a:visited {
+    color: white;
+}
+
+
+#connexion {
+    position: fixed;
+    right: 10px;
+}
+
+#contenu {
+    margin-top: 120px;
+    margin-bottom: 0;
+    margin-left: 1%;
+    margin-right: 1%;
+    width: 98%;
+}
+
+#logo {
+    position: fixed;
+    left: 10px;
+    top: 16px;
+    width: 64px;
+}
+
+.remarque {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+}
+
+.centre {
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}

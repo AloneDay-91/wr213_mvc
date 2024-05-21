@@ -1,0 +1,30 @@
+[
+  {
+    "client_code": 10,
+    "client_genre": "F",
+    "client_prenom": "Anne",
+    "client_nom": "Onime",
+    "client_adr": "111 rue des coquelicots",
+    "client_cp": 75001,
+    "client_ville": "Paris",
+    "client_pays": "France",
+    "client_tel": "07-07-07-07-07",
+    "client_date_naiss": "24/04/2003",
+    "client_email": "anne@anonyme.fr",
+    "client_mdp": "$2y$10$uRmo6svBWjnm6MeANeVDmuYApSgbhL8C8t1OA08Axio2/.BRZfgIy"
+  },
+  {
+    "client_code": 12,
+    "client_genre": "M",
+    "client_prenom": "J r me",
+    "client_nom": "Landr ",
+    "client_adr": "9 rue de Qu bec",
+    "client_cp": 10000,
+    "client_ville": "Troyes",
+    "client_pays": "France",
+    "client_tel": "06 06 06 06 06",
+    "client_date_naiss": "12/10/1972",
+    "client_email": "jerome.landre@univ-reims.fr",
+    "client_mdp": "$2y$11$g7biNmGLWxiEhdBF1FLIKOl/lU/GfeuWieu38h6qlsNH1HprCc1Hi"
+  }
+]
